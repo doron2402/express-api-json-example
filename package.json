@@ -1,0 +1,24 @@
+{
+  "name": "express-api-json-example",
+  "version": "1.0.0",
+  "description": "Simple express api example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doron2402/express-api-json-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doron2402/express-api-json-example/issues"
+  },
+  "homepage": "https://github.com/doron2402/express-api-json-example#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "method-override": "^3.0.0",
+    "morgan": "^1.9.1"
+  }
+}
